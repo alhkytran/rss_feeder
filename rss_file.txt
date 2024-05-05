@@ -1,0 +1,5 @@
+https://www.cvedetails.com/latest-vulnerabilities.xml
+https://www.exploit-db.com/rss.xml
+https://feeds.feedburner.com/TheHackersNews
+https://www.zerodayinitiative.com/rss/
+https://www.darkreading.com/rss_simple.asp
